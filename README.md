@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Peteonthebeat/Suite-Landing-Page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://peteonthebeat.github.io/Suite-Landing-Page/]
 
 ## My process
 
